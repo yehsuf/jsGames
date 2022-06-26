@@ -1,5 +1,5 @@
 # jsGames
-some silly games i made on my spare time.
+some silly games I made on my spare time.
 
 ### catch the red
 catch the red is a game where you have to click on the red box to earn 5 points every time you click on the gray box you lose 2 points
