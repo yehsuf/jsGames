@@ -1,0 +1,42 @@
+.mainFrame{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.gameBoard{
+    margin: 5%;
+    max-width: 90%;
+    border: 2px;
+    border-style: solid;
+    display: flex;
+}
+
+.gamePiece{
+    width: 50px;
+    height: 50px;
+    border: 2px;
+    border-style: solid;
+    margin: 5px;
+    background-color: gray;
+}
+
+.gamePiece.redPiece{
+    background-color:red;
+}
+
+.scoreBox{
+    min-width: 25px;
+    padding: 5px;
+    width: fit-content;
+    border: 2px;
+    border-style: solid;
+    text-align: center;
+    font-size: 75px;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+    color: red;
+    background-color: rgb(177, 147, 204);
+
+}
